@@ -11,5 +11,5 @@ vuex和axios，以及webpack、git等等一些工具和插件
 
 ##项目的预览图
 
-
+![1.png](https://github/forthenight/images/1.PNG)
 
