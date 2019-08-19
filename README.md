@@ -10,40 +10,6 @@ vuex和axios，以及webpack、git等等一些工具和插件
 
 
 ##项目的预览图
-![](https://github.com/forthenight/vue-test/raw/master/imgs/1.png)
 
-
-
-
-![](https://github.com/forthenight/vue-test/raw/master/imgs/2.png)
-
-
-
-
-![](https://github.com/forthenight/vue-test/raw/master/imgs/3.png)
-
-
-
-
-![](https://github.com/forthenight/vue-test/raw/master/imgs/4.png)
-
-
-
-
-![](https://github.com/forthenight/vue-test/raw/master/imgs/5.png)
-
-
-
-
-
-
-![](https://github.com/forthenight/vue-test/raw/master/imgs/6.png)
-
-
-
-
-
-
-![](https://github.com/forthenight/vue-test/raw/master/imgs/7.png)
 
 
