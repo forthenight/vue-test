@@ -12,4 +12,10 @@ vuex和axios，以及webpack、git等等一些工具和插件
 ##项目的预览图
 
 ![1.png](https://github/forthenight/images/1.PNG)
+![1.png](https://github/forthenight/images/2.PNG)
+![1.png](https://github/forthenight/images/3.PNG)
+![1.png](https://github/forthenight/images/4.PNG)
+![1.png](https://github/forthenight/images/5.PNG)
+![1.png](https://github/forthenight/images/6.PNG)
+![1.png](https://github/forthenight/images/7.PNG)
 
